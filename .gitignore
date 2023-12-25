@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 classification/data
+classification/alidata
