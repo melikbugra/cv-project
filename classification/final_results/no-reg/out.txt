@@ -1,0 +1,64 @@
+['Microbus', 'Bus', 'Sedan', 'Minivan', 'Truck', 'SUV']
+--------------------------------
+Initial Learning Rate: [0.3]
+Starting epoch 1
+Learning Rate: [0.3]
+Epoch [1/20], Train Loss: 5.7266, Val Loss: 2.6943
+Starting epoch 2
+Learning Rate: [0.3]
+Epoch [2/20], Train Loss: 1.3420, Val Loss: 4.1305
+Starting epoch 3
+Learning Rate: [0.3]
+Epoch [3/20], Train Loss: 1.3892, Val Loss: 2.1502
+Starting epoch 4
+Learning Rate: [0.03]
+Epoch [4/20], Train Loss: 0.8911, Val Loss: 2.3500
+Starting epoch 5
+Learning Rate: [0.03]
+Epoch [5/20], Train Loss: 0.4574, Val Loss: 2.2137
+Starting epoch 6
+Learning Rate: [0.03]
+Epoch [6/20], Train Loss: 0.3478, Val Loss: 2.0347
+Starting epoch 7
+Learning Rate: [0.03]
+Epoch [7/20], Train Loss: 0.2773, Val Loss: 1.9934
+Starting epoch 8
+Learning Rate: [0.003]
+Epoch [8/20], Train Loss: 0.2578, Val Loss: 2.1549
+Starting epoch 9
+Learning Rate: [0.003]
+Epoch [9/20], Train Loss: 0.2143, Val Loss: 1.9862
+Starting epoch 10
+Learning Rate: [0.003]
+Epoch [10/20], Train Loss: 0.1926, Val Loss: 1.9848
+Starting epoch 11
+Learning Rate: [0.003]
+Epoch [11/20], Train Loss: 0.1896, Val Loss: 2.0027
+Starting epoch 12
+Learning Rate: [0.00030000000000000003]
+Epoch [12/20], Train Loss: 0.1914, Val Loss: 1.9540
+Starting epoch 13
+Learning Rate: [0.00030000000000000003]
+Epoch [13/20], Train Loss: 0.1802, Val Loss: 1.9738
+Starting epoch 14
+Learning Rate: [0.00030000000000000003]
+Epoch [14/20], Train Loss: 0.1803, Val Loss: 1.9712
+Starting epoch 15
+Learning Rate: [0.00030000000000000003]
+Epoch [15/20], Train Loss: 0.1784, Val Loss: 1.9632
+Starting epoch 16
+Learning Rate: [3.0000000000000004e-05]
+Epoch [16/20], Train Loss: 0.1878, Val Loss: 1.9557
+Starting epoch 17
+Learning Rate: [3.0000000000000004e-05]
+Epoch [17/20], Train Loss: 0.1840, Val Loss: 1.9520
+Starting epoch 18
+Learning Rate: [3.0000000000000004e-05]
+Epoch [18/20], Train Loss: 0.2087, Val Loss: 1.9881
+Starting epoch 19
+Learning Rate: [3.0000000000000004e-05]
+Epoch [19/20], Train Loss: 0.1807, Val Loss: 1.9385
+Starting epoch 20
+Learning Rate: [3.0000000000000005e-06]
+Epoch [20/20], Train Loss: 0.1962, Val Loss: 1.9596
+Training complete

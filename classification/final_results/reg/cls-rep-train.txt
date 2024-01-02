@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+    Microbus       0.98      0.97      0.98      1533
+         Bus       0.86      0.87      0.87      2000
+       Sedan       0.80      0.77      0.78       785
+     Minivan       0.87      0.72      0.79      2000
+       Truck       0.77      0.91      0.83      2000
+         SUV       0.93      0.93      0.93      1968
+
+    accuracy                           0.87     10286
+   macro avg       0.87      0.86      0.86     10286
+weighted avg       0.87      0.87      0.87     10286
