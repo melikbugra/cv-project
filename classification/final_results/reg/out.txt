@@ -3,62 +3,62 @@
 Initial Learning Rate: [0.3]
 Starting epoch 1
 Learning Rate: [0.3]
-Epoch [1/20], Train Loss: 5.8240, Val Loss: 2.5596
+Epoch [1/20], Train Loss: 5.8240, Test Loss: 2.5596
 Starting epoch 2
 Learning Rate: [0.3]
-Epoch [2/20], Train Loss: 5.2393, Val Loss: 3.9707
+Epoch [2/20], Train Loss: 5.2393, Test Loss: 3.9707
 Starting epoch 3
 Learning Rate: [0.3]
-Epoch [3/20], Train Loss: 6.2563, Val Loss: 2.4488
+Epoch [3/20], Train Loss: 6.2563, Test Loss: 2.4488
 Starting epoch 4
 Learning Rate: [0.03]
-Epoch [4/20], Train Loss: 6.4640, Val Loss: 2.9378
+Epoch [4/20], Train Loss: 6.4640, Test Loss: 2.9378
 Starting epoch 5
 Learning Rate: [0.03]
-Epoch [5/20], Train Loss: 5.5232, Val Loss: 2.1460
+Epoch [5/20], Train Loss: 5.5232, Test Loss: 2.1460
 Starting epoch 6
 Learning Rate: [0.03]
-Epoch [6/20], Train Loss: 4.9709, Val Loss: 1.8752
+Epoch [6/20], Train Loss: 4.9709, Test Loss: 1.8752
 Starting epoch 7
 Learning Rate: [0.03]
-Epoch [7/20], Train Loss: 4.6353, Val Loss: 1.7570
+Epoch [7/20], Train Loss: 4.6353, Test Loss: 1.7570
 Starting epoch 8
 Learning Rate: [0.003]
-Epoch [8/20], Train Loss: 3.9597, Val Loss: 1.6675
+Epoch [8/20], Train Loss: 3.9597, Test Loss: 1.6675
 Starting epoch 9
 Learning Rate: [0.003]
-Epoch [9/20], Train Loss: 3.7974, Val Loss: 1.5329
+Epoch [9/20], Train Loss: 3.7974, Test Loss: 1.5329
 Starting epoch 10
 Learning Rate: [0.003]
-Epoch [10/20], Train Loss: 3.7103, Val Loss: 1.5394
+Epoch [10/20], Train Loss: 3.7103, Test Loss: 1.5394
 Starting epoch 11
 Learning Rate: [0.003]
-Epoch [11/20], Train Loss: 3.6395, Val Loss: 1.5159
+Epoch [11/20], Train Loss: 3.6395, Test Loss: 1.5159
 Starting epoch 12
 Learning Rate: [0.00030000000000000003]
-Epoch [12/20], Train Loss: 3.6782, Val Loss: 1.5000
+Epoch [12/20], Train Loss: 3.6782, Test Loss: 1.5000
 Starting epoch 13
 Learning Rate: [0.00030000000000000003]
-Epoch [13/20], Train Loss: 3.6018, Val Loss: 1.4936
+Epoch [13/20], Train Loss: 3.6018, Test Loss: 1.4936
 Starting epoch 14
 Learning Rate: [0.00030000000000000003]
-Epoch [14/20], Train Loss: 3.5303, Val Loss: 1.5076
+Epoch [14/20], Train Loss: 3.5303, Test Loss: 1.5076
 Starting epoch 15
 Learning Rate: [0.00030000000000000003]
-Epoch [15/20], Train Loss: 3.6729, Val Loss: 1.5025
+Epoch [15/20], Train Loss: 3.6729, Test Loss: 1.5025
 Starting epoch 16
 Learning Rate: [3.0000000000000004e-05]
-Epoch [16/20], Train Loss: 3.4597, Val Loss: 1.4978
+Epoch [16/20], Train Loss: 3.4597, Test Loss: 1.4978
 Starting epoch 17
 Learning Rate: [3.0000000000000004e-05]
-Epoch [17/20], Train Loss: 3.5868, Val Loss: 1.4882
+Epoch [17/20], Train Loss: 3.5868, Test Loss: 1.4882
 Starting epoch 18
 Learning Rate: [3.0000000000000004e-05]
-Epoch [18/20], Train Loss: 3.5460, Val Loss: 1.4862
+Epoch [18/20], Train Loss: 3.5460, Test Loss: 1.4862
 Starting epoch 19
 Learning Rate: [3.0000000000000004e-05]
-Epoch [19/20], Train Loss: 3.4682, Val Loss: 1.4845
+Epoch [19/20], Train Loss: 3.4682, Test Loss: 1.4845
 Starting epoch 20
 Learning Rate: [3.0000000000000005e-06]
-Epoch [20/20], Train Loss: 3.5983, Val Loss: 1.4802
+Epoch [20/20], Train Loss: 3.5983, Test Loss: 1.4802
 Training complete

@@ -131,7 +131,7 @@ for epoch in range(0, num_epochs):
     print(f"Learning Rate: {scheduler.get_last_lr()}")
 
     print(
-        f"Epoch [{epoch+1}/{num_epochs}], Train Loss: {avg_train_loss:.4f}, Val Loss: {avg_test_loss:.4f}"
+        f"Epoch [{epoch+1}/{num_epochs}], Train Loss: {avg_train_loss:.4f}, Test Loss: {avg_test_loss:.4f}"
     )
 
 # Save model after training
